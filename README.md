@@ -12,5 +12,6 @@ The following tasks were performed to address the problem statement:
 - Selection of target segment.
 - Customizing the Marketing Mix.
 - Estimation of potential customer base in the early market and potential profit calculation.
+  
 Introduction
 This report presents a comprehensive analysis of the Electric Vehicle (EV) market in India. The analysis includes segmentation of the market based on geographic, demographic, psychographic, and behavioral factors. The objective is to identify the most promising market segment for entering the EV market.
